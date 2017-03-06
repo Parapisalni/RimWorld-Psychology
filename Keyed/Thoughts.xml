@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<TreatmentFailed>The doctor failed to treat my {0}... it just felt like he didn't understand me.</TreatmentFailed>
+	<TreatmentFailed>Lekarzowi nie udało się wyleczyć bliskiej mi osoby ({0})... To tak, jakby mnie nie rozumiał.</TreatmentFailed>
 	
 </LanguageData>
